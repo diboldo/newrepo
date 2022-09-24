@@ -1,3 +1,0 @@
-# newrepo
-NewRepo
-teste
